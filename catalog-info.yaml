@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: pygoat
-  namespace: mend-crest-data
+  name: service-module-30234
+  namespace: MendPerformance
   annotations:
-    github.com/project-slug: mend-crest-data/pygoat
+    github.com/project-slug: MendPerformance/service-module-30234
 spec:
   type: service
   lifecycle: unknown
